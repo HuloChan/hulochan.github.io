@@ -66,30 +66,10 @@
   
   <img align="left" alt="Hulo's Telegram" width="25px" src="https://web.telegram.org/img/logo_share.png" />
 
-</a>
 
-<!--:linkedin:-->
 
-<a href="https://www.linkedin.com/in/sajidbinsarowar">
-  
-  <img align="left" alt="Hulo's Linkdein" width="25px" src="https://github.com/HuloChan/HuloChan/blob/main/Linkedin_logo.png" />
 
-</a>
 
-<!--:discord:-->
-
-<!--<a href="https://discord.c99.nl/widget/theme-2/439385890846932993.png">
-
-  <img align="left" alt="Hulo Discord" width="25px" src="https://github.com/HuloChan/HuloChan/blob/main/Discord-Logo-Color.png" />
-
-</a>-->
-<!--:My Anime List:-->
-
-<a href="https://myanimelist.net/animelist/HuloChan">
-  
-  <img align="left" alt="Hulo Discord" width="25px" src="https://github.com/HuloChan/HuloChan/blob/main/mal_icon.png" />
-
-</a>
 
 <!--:zenitsu-picture:-->
 
@@ -98,11 +78,13 @@
   <img align="right" alt="GIF-Zenitsu_Thunder" src="https://images2.imgbox.com/26/60/yJ0EQfsT_o.png" width="500" height="454" />
 
 </p>
+<p>
 <br>
 
 <!--about my education-->
 
 ### About me
+</p>
 
 - 🎓 <a href="https://www.mist.ac.bd/">Military Institute of Science and Technology</a>
   - B.Sc in `Mechanical Engineering`

@@ -66,14 +66,7 @@
   
   <img align="left" alt="Hulo's Telegram" width="25px" src="https://web.telegram.org/img/logo_share.png" />
 
-
-
-
-
-
-<!--:zenitsu-picture:-->
-
-<!--<p>-->
+<p>
 
   <img align="right" alt="GIF-Zenitsu_Thunder" src="https://images2.imgbox.com/26/60/yJ0EQfsT_o.png" width="500" height="454" />
 
@@ -100,13 +93,6 @@
 
   </a>
 </p>
-
-<p>
-
-```
-https://github.com/hulochan
-```
-
 
 <img align="right" alt="CopyRight" src="https://img.shields.io/badge/%E2%92%B8-HuloChan-lightgrey" />
 

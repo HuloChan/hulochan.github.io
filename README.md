@@ -1,17 +1,9 @@
-<!-- Updating my readme for GitHub-->
 
-<!--<h1 font face="Courier New" align="center">Hi, I'm Sajid Bin Sarowar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35px" width="35px"></h1>-->
-<!--<p align="left"> 
-	
-  <img src="https://i.ibb.co/Bnd1Wvr/hi-me-readme-rounded.png" alt="Hi, I am Sajid Bin Sarowar"/>
 
 </p>-->
 
-<h3 align="center"><!--<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="25">--> A Tech Enthusiast</h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="25"> A Tech Enthusiast</h3>
 
-<!--:main part:-->
-
-<!--:visitors and followers count:-->
 
 <p align="center"> 
 	

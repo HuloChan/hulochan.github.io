@@ -60,13 +60,12 @@
   <img align="right" alt="GIF-Zenitsu_Thunder" src="https://images2.imgbox.com/26/60/yJ0EQfsT_o.png" width="500" height="454" />
 
 </p>
-<p>
-<br>
+
 
 <!--about my education-->
 
-<p align="left">### About me</p>
-</p>
+<h4 align="left">### About me</h4>
+
 <p>
 - 🎓 <a href="https://www.mist.ac.bd/">Military Institute of Science and Technology</a>
   - B.Sc in Mechanical Engineering </p>

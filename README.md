@@ -61,8 +61,7 @@
 
 </p>
 
-
-<!--about my education-->
+<br>
 #### About Me :
 
 <p>

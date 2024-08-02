@@ -63,8 +63,7 @@
 
 
 <!--about my education-->
-
-<h4 align="left">### About me</h4>
+#### About Me :
 
 <p>
 - 🎓 <a href="https://www.mist.ac.bd/">Military Institute of Science and Technology</a>

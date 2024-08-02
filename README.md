@@ -82,7 +82,7 @@
 - 🎓 <a href="https://www.mist.ac.bd/">Military Institute of Science and Technology</a>
   - B.Sc in Mechanical Engineering </p>
 <p>
-- 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a> </br>
+- 🎓 <a href="http://acc.edu.bd/">Adamjee Cantonment College</a>
   - `Science` <b>(Batch of '20)</b></p>
 
 <p align="center">
